@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">GNBTrades</string>
+    <string name="view_error">Oops something went wrong</string>
+    <string name="totalSum">Total:</string>
 </resources>
